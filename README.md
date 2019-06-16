@@ -1,4 +1,3 @@
-# Captcha-solving
+# Captcha-solver
 
 
-Mini Project at MS Data Science, UAB
